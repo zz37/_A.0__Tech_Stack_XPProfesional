@@ -11,6 +11,7 @@ tech-stack-profesional/
 |   └───── dotnet-stack.md       # Uso de .NET Framework y .NET Core
 |   └───── csharp-stack.md       # Uso del lenguaje C#
 |   └───── sql-Server-MStudio.md # Uso de SSMS de bases de datos
+|   └───── Azure-Devops.md       # Uso de Azure Devops
 ├── Scale AI.md   
 │   └── python-stack.md          # Stack de Python, pytest, conda
 |   └── sql_No_sql.md            # Detalles sobre SQL y NoSQL
