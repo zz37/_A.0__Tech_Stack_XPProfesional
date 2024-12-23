@@ -10,6 +10,7 @@ tech-stack-profesional/
 │    └── visualstudio-2022.md     # Detalles sobre el uso de Visual Studio 2022
 │    └───── dotnet-stack.md       # Uso de .NET Framework y .NET Core
 │    └───── csharp-stack.md       # Uso del lenguaje C#
+│    └───── playwright-stack.md       # Uso del lenguaje C#
 │    └───── sql-Server-MStudio.md # Uso de SSMS de bases de datos
 │    └───── Azure-Devops.md       # Uso de Azure Devops
 ├── Scale AI.md   
