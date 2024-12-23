@@ -6,7 +6,7 @@
 ## Estructura de Repo
 ```bash
 tech-stack-profesional/
-├── AZPNShit
+├── AZPN
 │    └── visualstudio-2022.md     # Detalles sobre el uso de Visual Studio 2022
 │    └───── dotnet-stack.md       # Uso de .NET Framework y .NET Core
 │    └───── csharp-stack.md       # Uso del lenguaje C#
