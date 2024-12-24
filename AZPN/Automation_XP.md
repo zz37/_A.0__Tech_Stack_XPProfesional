@@ -107,10 +107,10 @@ Aquí se puede ver una captura de pantalla del entorno de `Visual Studio 2022` c
 
 ### Recursos
 
-- Buscar en Microsoft.com google ahí viene todo los Visual studio 
+Visual Studio
+- buscar en Microsoft.com y Google
     - Ejemplo de como Unit Test:
-        - https://learn.microsoft.com/en-us/visualstudio/test/run-unit-tests-with-test-explorer?view=vs-2022
-
+        - https://learn.microsoft.com/en-us/visualstudio/test/
 
 
 ### Otras Herramientas
